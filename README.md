@@ -1,6 +1,6 @@
 This should be fixed as of 9/8/23. The repo was archived and the URLs changed.
 - Visit [this link](https://raw.githubusercontent.com/Sokoloft/dark-discord/main/src/stylus.user.css)
-
+Apparently not. I'm unsure what else needs to be done to fix this :( 
 
 ![Banner](https://raw.githubusercontent.com/discord-modifications/dark-discord/master/assets/banner.png)
 
