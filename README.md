@@ -1,3 +1,7 @@
+This should be fixed as of 9/8/23. The repo was archived and the URLs changed.
+- Visit [this link](https://raw.githubusercontent.com/Sokoloft/dark-discord/main/src/stylus.user.css)
+
+
 ![Banner](https://raw.githubusercontent.com/discord-modifications/dark-discord/master/assets/banner.png)
 
 <p align='center'>
